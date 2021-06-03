@@ -39,7 +39,7 @@ namespace WebApplication2
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+            //TEst
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
